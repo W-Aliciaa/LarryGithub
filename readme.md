@@ -2,4 +2,4 @@
 
 Esta serie de libros cuentan la historia de un hacker de los que hay pocos.
 
-**Alicia Munoz**, Git lover
+**Alicia Munoz**, Git lover & Larry Plotter Lover
